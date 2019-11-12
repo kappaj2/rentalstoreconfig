@@ -1,6 +1,8 @@
 server:
   port: 9191
 
+application:
+  name: config-server-default
 
 spring:
   datasource:
